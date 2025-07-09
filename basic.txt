@@ -1,0 +1,14 @@
+🔤 Levels of Programming Languages
+In general, there are three levels of programming languages:
+Machine Level Language
+Assembly Level Language
+High-Level Language
+
+🧠 Machine Level Language
+This is the only language that a computer can directly understand. It consists of binary values — a series of high voltage (1) and low voltage (0) signals — also known as machine code. These binary instructions tell the processor exactly what operations to perform. It is extremely fast but very difficult for humans to read or write.
+
+🔧 Assembly Level Language
+Assembly language was introduced to make programming more human-friendly. It uses short English-like mnemonics such as ADD, MOV, and SUB instead of raw binary codes. These mnemonics are then translated into machine code using an assembler. Assembly language provides more control over hardware but is still complex and hardware-specific.
+
+💻 High-Level Language
+High-level languages like C, Python, and Java were created to make programming easier and more abstract. Unlike assembly, you don’t need to manage memory addresses or CPU instructions directly. These languages are closer to human language and can run on multiple hardware platforms using compilers or interpreters. They greatly improve development speed and code readability.
